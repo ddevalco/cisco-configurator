@@ -1,0 +1,7 @@
+# COM, HOST, TYPE
+# Device Type options:
+# 1 - 2960S switch
+# 2 - 2911 router
+# 3 - 1941 router
+
+1,SWITCH1,1
